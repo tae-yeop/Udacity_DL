@@ -1,0 +1,2 @@
+model_checkpoint_path: "naming_error2.ckpt"
+all_model_checkpoint_paths: "naming_error2.ckpt"
